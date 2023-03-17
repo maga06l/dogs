@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.he {
+    margin: 100px;
+}
+
+.sd {
+    padding: 10px;
+}
+
+.btn {
+    background-color: bisque;
+    height: 150px;
+    width: 300px;
+    color: blue;
+    transition: 1s;
+    transform: 30px;
+}
+
+.btn:hover {
+    color: brown;
+    transition: 0.3cm;
+    background-color: blueviolet;
+}
